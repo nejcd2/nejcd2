@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Flutter Applications**
 
-- 🌱 I’m currently learning **ReactJS, Flutter and Backend development.**
+- 🌱 I’m currently learning **ReactJS, Flutter**
+
+- 🚀 On my way to become a Fullstack web developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
